@@ -34,7 +34,7 @@ The game is displayed using a graphical interface created with **Java Swing**, a
     If you're using a command-line environment, you can compile the project by navigating to the project directory and running:
 
     ```bash
-    javac GameWindow.java GameBoard.java Tile.java
+    javac *.java
     ```
 
 3. **Run the project**:
@@ -42,7 +42,7 @@ The game is displayed using a graphical interface created with **Java Swing**, a
     Once compiled, you can run the project with:
 
     ```bash
-    java GameWindow
+    java App
     ```
 
 4. **Alternatively, use an IDE**:
